@@ -1,6 +1,7 @@
 # DocBot: Advanced Q&A Chatbot for Document Insights
 
-![DocBot Architecture](https://github.com/Rudra5417/DocBot-Advanced-Q-A-Chatbot-for-Document-Insights/raw/main/architecture.jpg)
+![Architecture](https://github.com/Rudra5417/DocBot-Advanced-Q-A-Chatbot-for-Document-Insights/assets/60398030/7d0aeaff-9fd4-4b63-b79a-3bebfb429e3e)
+
 
 **DocBot** is a sophisticated Q&A chatbot designed to provide in-depth insights from documents. By leveraging advanced embeddings and Large Language Models (LLMs), DocBot processes PDFs and responds to user queries with pinpoint accuracy.
 
